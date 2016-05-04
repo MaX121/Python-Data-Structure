@@ -2,9 +2,7 @@
 target = input("Searching name :: ");
 
 # define list and dictionary
-name = []
-grade = []
-rank = []
+name = grade = rank = []
 dictionary = {'name':[], 'grade':[], 'rank':[]}
 
 # user input to add the value to the dictionary
